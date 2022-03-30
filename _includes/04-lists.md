@@ -1,4 +1,4 @@
-add my favorite things.
-🐶
-😺
-👦
+# add my favorite things.
+* 🐶
+* 😺
+* 👦
